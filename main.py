@@ -1,4 +1,3 @@
-
 import argparse
 from src.pokedex.client import get_pokemon
 
